@@ -1,5 +1,4 @@
 # hairdressing-Web-v.0.0
-First web
 First web , using html5, css3, js,bootstrap.
 
 notes: things to improve> 
